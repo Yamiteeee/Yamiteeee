@@ -1,12 +1,40 @@
--  Hi, I’m @Yamiteeee
--  I’m interested in mobile development.
--  I’m currently learning flutter  and  express js.
--  How to reach me -  this is my email jasonplatino798@gmail.com
+# 👋 Hi there, I’m @Yamiteeee
 
-  
--  Fun fact:  im not batman.
+### 🚀 About Me
+- 📱 Aspiring **Mobile Developer**
+- 🛠️ Currently diving deep into **Flutter**, **Firebase**, and **Express.js**
+- 📫 How to reach me: [jasonplatino798@gmail.com](mailto:jasonplatino798@gmail.com)
+- 😎 Fun fact: *I’m not Batman... but no one has ever seen us in the same room.*
 
-<!---
-Yamiteeee/Yamiteeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 💡 What I’m Working On
+- Building cross-platform apps with **Flutter**
+- Exploring backend development using **Express.js**
+- Implementing real-time features with **Firebase**
+
+---
+
+### 🔧 Tech Stack
+- **Languages:** Dart, JavaScript, HTML, CSS
+- **Mobile:** Flutter
+- **Backend:** Node.js, Express.js
+- **Database:** Firebase Firestore, MySQL
+- **Tools:** VSCode, Android Studio, Git, Postman
+
+---
+
+### 🎯 Goals for 2025
+- 📱 Release a mobile app on the Play Store
+- 🧠 Contribute to open source
+- 🚀 Land a freelance or internship gig in mobile dev
+
+---
+
+### 🖼️ Showcase
+> _Soon I'll be showing off my work here, so stay tuned!_
+
+---
+
+> 💬 *"Code like a hero, debug like a villain."*  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– @Yamiteeee
