@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m @Yamiteeee
+
 
 ### 🚀 About Me
 - 📱 Aspiring **Mobile Developer**
@@ -30,11 +30,5 @@
 - 🚀 Land a freelance or internship gig in mobile dev
 
 ---
-
-### 🖼️ Showcase
-> _Soon I'll be showing off my work here, so stay tuned!_
-
----
-
 > 💬 *"Code like a hero, debug like a villain."*  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– @Yamiteeee
