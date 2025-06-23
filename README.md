@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 💫 About Me:
 ### 🚀 About Me  
@@ -14,6 +14,7 @@
 - Exploring robust backend solutions using **Express.js**.  
 - Integrating real-time functionalities with **Firebase**.
 
+<div align="center">
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jasonplatino798@gmail.com)
 
