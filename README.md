@@ -1,5 +1,5 @@
 
-<div align="center">
+
 # 💫 About Me:
 ### 🚀 About Me  
 - 📱 Aspiring Mobile Developer  
