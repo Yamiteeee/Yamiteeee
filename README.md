@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Aiven-F34B7D?style=for-the-badge&logo=aiven&logoColor=white" alt="Aiven">
 </div>
 
-
+<div align="center">
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Yamiteeee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
@@ -45,8 +45,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Yamiteeee&theme=dark&hide_border=false)  
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yamiteeee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 
 ### 🔝 Top Contributed Repo
 
@@ -56,10 +54,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Yamiteeee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 
 </div>
