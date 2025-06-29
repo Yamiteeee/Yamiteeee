@@ -16,7 +16,7 @@
 
 
 
-<div align="center">
+
 
 
 
@@ -40,6 +40,8 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)  
 ![Aiven](https://img.shields.io/badge/Aiven-F34B7D?style=for-the-badge&logo=aiven&logoColor=white)
 
+
+<div align="center">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yamiteeee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
