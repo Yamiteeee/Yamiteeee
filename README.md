@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render">
   <img src="https://img.shields.io/badge/Aiven-F34B7D?style=for-the-badge&logo=aiven&logoColor=white" alt="Aiven">
+  <img src="https://img.shields.io/badge/Laragon-1ABC9C?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon">
 </div>
 
 <div align="center">
