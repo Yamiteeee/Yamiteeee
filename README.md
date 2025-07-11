@@ -7,12 +7,6 @@
 - 📫 Reach me at: [jasonplatino798@gmail.com](mailto:jasonplatino798@gmail.com)  
 - 😄 Fun fact: I've never been seen in the same room as Batman.  
 
----
-
-### 💡 What I’m Currently Building  
-- Cross-platform mobile applications with **Flutter**.  
-- Exploring robust backend solutions using **Express.js**.  
-- Integrating real-time functionalities with **Firebase**.
 
 
 ## 🌐 Socials:
