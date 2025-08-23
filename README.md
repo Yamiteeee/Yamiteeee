@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 ### 🚀 About Me  
-- 📱 Aspiring Mobile Developer  
+- 📱 Aspiring Mobile Developer  & 🌐 Web Developer
 - 🛠️ Deeply engaged in building with **Flutter**, **Firebase**, and **Express.js**.  
 - 📫 Reach me at: [jasonplatino798@gmail.com](mailto:jasonplatino798@gmail.com)  
 - 😄 Fun fact: I've never been seen in the same room as Batman.  
