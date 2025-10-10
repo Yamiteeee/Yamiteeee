@@ -1,6 +1,6 @@
 #  About Me-
 - 📱 Aspiring Mobile Developer & 🌐 Web Developer  
-- 🛠️ Skilled in **Flutter**, **Firebase**, **Express.js**, **ReactJS**, and other modern technologies
+- 🛠️ Skilled in **Flutter**, **Firebase**, **Express.js**, **Nextjs**, and other modern technologies
 - 💼 Portfolio : https://my-next-app-git-master-jsons-projects-b0b11cd2.vercel.app
 
 - 😄 Fun fact: I've never been seen in the same room as Batman  
