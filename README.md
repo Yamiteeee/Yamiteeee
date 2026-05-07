@@ -1,62 +1,65 @@
-#  About Me-
-- 📱 Aspiring Mobile Developer & 🌐 Web Developer  
-- 🛠️ Skilled in **Flutter**, **Firebase**, **Express.js**, **Nextjs**, and other modern technologies
-- 💼 Portfolio : https://my-next-app-git-master-jsons-projects-b0b11cd2.vercel.app
+# Jason Adrian A. Platino
 
-- 😄 Fun fact: I've never been seen in the same room as Batman  
+**Full-Stack Developer | Mobile Developer | Automation Specialist**
+
+I am a developer focused on building functional, production-grade applications. My experience ranges from developing Enterprise Learning Management Systems (LMS) to creating AI-driven internal tools and mobile solutions. I specialize in bridging the gap between clean code and efficient business operations.
+
+- Currently building with Next.js, Flutter, and AI Automation (n8n/Zapier)
+- Focused on optimizing internal workflows and scaling AI integrations
+- Portfolio: [jasonplatino.vercel.app](https://my-next-app-git-master-jsons-projects-b0b11cd2.vercel.app)
+- Fun fact: I've never been seen in the same room as Batman
 
 ---
 
-## 🌐 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jasonplatino798@gmail.com)
+## Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jasonplatino798@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/jason-adrian-platino-5486b7233/)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-**Programming Languages:**  
+**Programming Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 
-**Frameworks & Libraries:**  
+**Frameworks & Libraries**  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white) 
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) 
 
-**Databases & Hosting:**  
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase) 
+**Automation & AI**  
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white) 
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white) 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
+
+**Databases & Infrastructure**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) 
 ![Aiven](https://img.shields.io/badge/Aiven-F34B7D?style=for-the-badge&logo=aiven&logoColor=white) 
-![Laragon](https://img.shields.io/badge/Laragon-1ABC9C?style=for-the-badge&logo=laragon&logoColor=white)  
-
-**Tools & Design:**  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)  
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yamiteeee&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yamiteeee&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamiteeee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-<p align="center">
-  <strong>🔝 Top Contributed Repositories</strong><br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Yamiteeee&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
-
-
 
 ---
 
+## Activity & Stats
 
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yamiteeee&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
 
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yamiteeee&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+---
