@@ -6,7 +6,7 @@ I am a developer focused on building functional, production-grade applications. 
 
 - Currently building with Next.js, Flutter, and AI Automation (n8n/Zapier)
 - Focused on optimizing internal workflows and scaling AI integrations
-- Portfolio: [jsonportfolio.fun]((https://jsonporfolio.fun))
+- Portfolio: [jsonportfolio.fun](https://jsonporfolio.fun)
 - Fun fact: I've never been seen in the same room as Batman
 
 ---
