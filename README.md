@@ -14,7 +14,7 @@ I am a developer focused on building functional, production-grade applications. 
 ## Featured Projects
 
 ### Soliya Sanctuary
-A premium, high-performance web experience for a luxury boutique resort nestled in Siargao Island. Optimized with flawless responsive layouts for mobile, tablet, and desktop viewports.
+*A premium, high-performance web experience for a luxury boutique resort nestled in Siargao Island. Optimized with flawless responsive layouts for mobile, tablet, and desktop viewports.*
 * **Tech Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Vercel
 * **Live Link:** [Live Demo](https://soliya-resort.vercel.app)
 
