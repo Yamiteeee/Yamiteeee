@@ -11,22 +11,22 @@ I am a developer focused on building functional, production-grade applications. 
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
-### 🌊 Soliya Sanctuary
+### Soliya Sanctuary
 A premium, high-performance web experience for a luxury boutique resort nestled in Siargao Island. Optimized with flawless responsive layouts for mobile, tablet, and desktop viewports.
 * **Tech Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Vercel
-* **Live Link:** [soliya-resort.vercel.app](https://soliya-resort.vercel.app)
+* **Live Link:** [Live Demo](https://soliya-resort.vercel.app)
 
-### 🚀 [Project Name]
-*Replace this with a brief description of your next project, what problem it solved, and what makes it awesome.*
-* **Tech Stack:** Tech 1, Tech 2, Tech 3
-* **Links:** [Live Demo](#) | [GitHub Repository](#)
+###  Spc Drive
+*This is a centralized file system for my company that features a role-based access system with secure cloud file storage.*
+* **Tech Stack:**  Next.js 15 (App Router), TypeScript, Tailwind CSS, Vercel , PostgreSql , Supabase
+* **Links:** [Live Demo](https://spcdrive.vercel.app) 
 
-### 🤖 [Project Name]
-*Replace this with a brief description of an AI tool, automation workflow, or mobile app you've built.*
-* **Tech Stack:** Tech 1, Tech 2, Tech 3
-* **Links:** [Live Demo](#) | [GitHub Repository](#)
+### Inventory Saas
+*This is my inventory web application. It handles auditing, item listing, currency support, and live monitoring of items moving in and out.*
+* **Tech Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Vercel , PostgreSql , Supabase
+* **Links:** [Live Demo](https://inventory-saas-kappa.vercel.app) 
 ---
 
 ## Connect with Me
