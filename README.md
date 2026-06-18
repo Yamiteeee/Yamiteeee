@@ -6,9 +6,27 @@ I am a developer focused on building functional, production-grade applications. 
 
 - Currently building with Next.js, Flutter, and AI Automation (n8n/Zapier)
 - Focused on optimizing internal workflows and scaling AI integrations
-- Portfolio: [jsonportfolio.fun](https://jsonporfolio.fun)
+- Portfolio: [jsonportfolio.fun](https://jsonportfolio.fun)
 - Fun fact: I've never been seen in the same room as Batman
 
+---
+
+## 🛠️ Featured Projects
+
+### 🌊 Soliya Sanctuary
+A premium, high-performance web experience for a luxury boutique resort nestled in Siargao Island. Optimized with flawless responsive layouts for mobile, tablet, and desktop viewports.
+* **Tech Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Vercel
+* **Live Link:** [soliya-resort.vercel.app](https://soliya-resort.vercel.app)
+
+### 🚀 [Project Name]
+*Replace this with a brief description of your next project, what problem it solved, and what makes it awesome.*
+* **Tech Stack:** Tech 1, Tech 2, Tech 3
+* **Links:** [Live Demo](#) | [GitHub Repository](#)
+
+### 🤖 [Project Name]
+*Replace this with a brief description of an AI tool, automation workflow, or mobile app you've built.*
+* **Tech Stack:** Tech 1, Tech 2, Tech 3
+* **Links:** [Live Demo](#) | [GitHub Repository](#)
 ---
 
 ## Connect with Me
