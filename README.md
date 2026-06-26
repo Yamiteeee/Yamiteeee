@@ -18,6 +18,11 @@ I am a developer focused on building functional, production-grade applications. 
 * **Tech Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Vercel
 * **Live Link:** [Live Demo](https://soliya-resort.vercel.app)
 
+### Aplaya Boracay
+*A premium, high-performance web experience for a luxury beachfront restaurant and lounge in Boracay Island. Features fluid editorial animations and a custom touch/scroll-isolated menu coverflow matrix.*
+* **Tech Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Framer Motion, Vercel
+* **Live Link:** [Live Demo](https://boracay-resto-bar.vercel.app)
+
 ###  Spc Drive
 *This is a centralized file system for my company that features a role-based access system with secure cloud file storage.*
 * **Tech Stack:**  Next.js 15 (App Router), TypeScript, Tailwind CSS, Vercel , PostgreSql , Supabase
