@@ -13,6 +13,11 @@ I am a developer focused on building functional, production-grade applications. 
 
 ## Featured Projects
 
+### Job Copilot
+*A high-performance, automated job tracking pipeline and Kanban board designed for seamless job searching. Features cross-device cloud synchronization over a zero-auth token engine and direct automated data ingestion from web scrapers via webhook proxy routes.*
+* **Tech Stack: Next.js, TypeScript, Tailwind CSS, Supabase, Make.com Automation
+* **Live Link:** [Live Demo](https://job-copilot-one.vercel.app)
+
 ### Soliya Sanctuary
 *A premium, high-performance web experience for a luxury boutique resort nestled in Siargao Island. Optimized with flawless responsive layouts for mobile, tablet, and desktop viewports.*
 * **Tech Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Vercel
