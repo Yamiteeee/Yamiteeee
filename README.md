@@ -11,7 +11,7 @@ I engineer high-performance, production-grade applications that bridge the gap b
 * **Data & Automation:** Designing secure backend proxy layers, web ingestion webhooks, and programmatic data streams via Supabase, PostgreSQL, and Make.com.
 * **Systems Optimization:** Eliminating structural bottlenecks through real-time data filtering, custom web scrapers, and AI integration nodes.
 
-**Production Sandbox:** [jsonportfolio.fun](https://jsonportfolio.fun)  
+**My Portfolio:** [jsonportfolio.fun](https://www.jsonporfolio.fun)  
 **System Note:** *Verified absence of simultaneous visual confirmation alongside Batman.*
 
 ---
