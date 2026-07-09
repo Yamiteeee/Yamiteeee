@@ -71,7 +71,15 @@ I engineer high-performance, production-grade applications that bridge the gap b
       <a href="https://inventory-saas-kappa.vercel.app"><b>🌐 Launch Live Demo →</b></a>
     </td>
     <td width="50%" valign="top">
-      </td>
+      <h3>MedVA Secure Hospital Booking</h3>
+      <p><em>Enterprise-grade healthcare portal with a real-time scheduler. Combines transactional concurrency protection against calendar race conditions with multi-role client data isolation dashboards.</em></p>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Refine_Framework-0052FF?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3FC08D?style=flat-square&logo=supabase&logoColor=white" />
+      <br/><br/>
+      <a href="https://hospital-booking-neon.vercel.app/"><b>🌐 Launch Live Demo →</b></a>
+    </td>
   </tr>
 </table>
 
