@@ -81,6 +81,21 @@ I engineer high-performance, production-grade applications that bridge the gap b
       <a href="https://hospital-booking-neon.vercel.app/"><b>🌐 Launch Live Demo →</b></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>MindSpace AI</h3>
+      <p><em>Private, emotionally intelligent AI wellness companion. Synthesizes streaming Groq API responses into lifelike, sentence-paced audio using the Web Speech API, with client-side rate-limit recovery.</em></p>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Web_Speech_API-005A9C?style=flat-square&logo=w3c&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <br/><br/>
+      <a href="https://my-ai-zeta-eight.vercel.app"><b>🌐 Launch Live Demo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Ready for your next deployment! -->
+    </td>
+  </tr>
 </table>
 
 ---
