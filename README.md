@@ -115,6 +115,7 @@ I engineer high-performance, production-grade applications that bridge the gap b
 
 #### Frameworks
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
@@ -136,18 +137,4 @@ I engineer high-performance, production-grade applications that bridge the gap b
 
 </div>
 
----
 
-## Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yamiteeee&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yamiteeee&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
----
