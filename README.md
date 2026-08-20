@@ -1,140 +1,183 @@
 # Jason Adrian A. Platino
 
-**Full-Stack Engineer • Mobile Architect • Automation Specialist**
+### Full-Stack Engineer · Mobile Developer · Automation Specialist
 
-I engineer high-performance, production-grade applications that bridge the gap between clean software architecture and optimized business operations. My background includes architecting enterprise-scale platforms, deploying secure cross-platform mobile solutions, and orchestrating event-driven internal automation pipelines.
+> Building production-ready software across web, mobile, data, automation, and AI.
 
----
+**Full-Stack Development** · **Cloud Systems** · **Automation** · **AI Integration**
 
-### Core Focus Areas
-* **Architecture:** Building optimized web applications with Next.js and fluid mobile systems using Flutter.
-* **Data & Automation:** Designing secure backend proxy layers, web ingestion webhooks, and programmatic data streams via Supabase, PostgreSQL, and Make.com.
-* **Systems Optimization:** Eliminating structural bottlenecks through real-time data filtering, custom web scrapers, and AI integration nodes.
-
-**My Portfolio:** [jsonportfolio.fun](https://www.jsonporfolio.fun)  
-**System Note:** *Verified absence of simultaneous visual confirmation alongside Batman.*
-
----
-## <img src="https://img.shields.io/badge/System-Core_Projects-06B6D4?style=for-the-badge" />
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Job Copilot</h3>
-      <p><em>Automated Kanban pipeline tracking dashboard. Features full cross-device cloud sync via zero-auth token scoping and live ingestion webhooks mapping Make.com web scrapers.</em></p>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3FC08D?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Make.com-4323FF?style=flat-square&logo=make&logoColor=white" />
-      <br/><br/>
-      <a href="https://job-copilot-one.vercel.app"><b>🌐 Launch Live Demo →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Soliya Sanctuary</h3>
-      <p><em>Premium web presence and digital showcase engine for a boutique resort in Siargao. Engine optimizes flawless fluid layouts across responsive breakpoints.</em></p>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white" />
-      <br/><br/>
-      <a href="https://soliya-resort.vercel.app"><b>🌐 Launch Live Demo →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Aplaya Boracay</h3>
-      <p><em>Editorial web platform for a luxury beachfront lounge. Designed with fluid structural transitions and custom touch-isolated menu coverflow viewports.</em></p>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <br/><br/>
-      <a href="https://boracay-resto-bar.vercel.app"><b>🌐 Launch Live Demo →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>SPC Drive</h3>
-      <p><em>Enterprise-grade file management cloud portal built with strict role-based authorization rules (RBAC) and high-volume asset stream security.</em></p>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3FC08D?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <br/><br/>
-      <a href="https://spcdrive.vercel.app"><b>🌐 Launch Live Demo →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Inventory SaaS</h3>
-      <p><em>Full-featured warehouse auditing application. Orchestrates multi-currency pipelines, inventory flows, and real-time ledger updates.</em></p>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3FC08D?style=flat-square&logo=supabase&logoColor=white" />
-      <br/><br/>
-      <a href="https://inventory-saas-kappa.vercel.app"><b>🌐 Launch Live Demo →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>MedVA Secure Hospital Booking</h3>
-      <p><em>Enterprise-grade healthcare portal with a real-time scheduler. Combines transactional concurrency protection against calendar race conditions with multi-role client data isolation dashboards.</em></p>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Refine_Framework-0052FF?style=flat-square&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3FC08D?style=flat-square&logo=supabase&logoColor=white" />
-      <br/><br/>
-      <a href="https://hospital-booking-neon.vercel.app/"><b>🌐 Launch Live Demo →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>MindSpace AI</h3>
-      <p><em>Private, emotionally intelligent AI wellness companion. Synthesizes streaming Groq API responses into lifelike, sentence-paced audio using the Web Speech API, with client-side rate-limit recovery.</em></p>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Web_Speech_API-005A9C?style=flat-square&logo=w3c&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <br/><br/>
-      <a href="https://my-ai-zeta-eight.vercel.app"><b>🌐 Launch Live Demo →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <!-- Ready for your next deployment! -->
-    </td>
-  </tr>
-</table>
+[ Portfolio ](https://www.jsonporfolio.fun) · [ GitHub ](https://github.com/Yamiteeee)
 
 ---
 
-<div align="center">
+## `01` — ENGINEERING PROFILE
 
-## Core Production Engine
+| DOMAIN | CAPABILITIES |
+|:---|:---|
+| **FULL-STACK** | Next.js · React · Node.js · TypeScript · REST APIs |
+| **DATA** | PostgreSQL · Supabase · MySQL · Firebase |
+| **AUTOMATION** | Make.com · n8n · Zapier · Webhooks |
+| **AI** | LLM APIs · AI-powered features · AI-assisted development |
+| **INFRASTRUCTURE** | Vercel · GitHub · CI/CD · Cloud Deployments |
+| **MOBILE** | Flutter · Dart · Firebase |
 
-#### Languages
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+---
 
-#### Frameworks
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+# `02` — SELECTED PROJECTS
 
-#### Automation & AI
-<img src="https://img.shields.io/badge/Make.com-4323FF?style=for-the-badge&logo=make&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+> A selection of systems and applications designed, developed, and deployed independently.
 
-#### Infrastructure & DBs
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Aiven-F34B7D?style=for-the-badge&logo=aiven&logoColor=white" />
+### `01` Job Copilot
 
-</div>
+**Automated Job Application Pipeline**
 
+Automated job application pipeline with Kanban tracking, cloud synchronization,
+and automated job ingestion through Make.com webhooks.
 
+`Next.js` `TypeScript` `Supabase` `Make.com`
+
+**[ VIEW LIVE DEMO → ](https://job-copilot-one.vercel.app)**
+
+---
+
+### `02` StockLogic Inventory SaaS
+
+**B2B Inventory & Warehouse Platform**
+
+Inventory platform featuring auditing, transactional records, financial tracking,
+and real-time ledger updates.
+
+`Next.js` `PostgreSQL` `Supabase`
+
+**[ VIEW LIVE DEMO → ](https://inventory-saas-kappa.vercel.app)**
+
+---
+
+### `03` MedVA Secure Hospital Booking
+
+**Real-Time Healthcare Scheduling**
+
+Healthcare scheduling platform with multi-role access, doctor availability rules,
+and concurrency protection against scheduling conflicts.
+
+`Next.js` `Refine` `shadcn/ui` `Supabase`
+
+**[ VIEW LIVE DEMO → ](https://hospital-booking-neon.vercel.app/)**
+
+---
+
+### `04` SPC Drive
+
+**Enterprise File Management Platform**
+
+Secure file management system featuring RBAC, asset management,
+and PostgreSQL-backed architecture.
+
+`Next.js` `Supabase` `PostgreSQL`
+
+**[ VIEW LIVE DEMO → ](https://spcdrive.vercel.app)**
+
+---
+
+### `05` MindSpace AI
+
+**AI Conversational Application**
+
+Conversational AI application combining streaming LLM responses,
+Web Speech API synthesis, sentence-level audio pacing, and rate-limit recovery.
+
+`Next.js` `TypeScript` `Groq AI` `Web Speech API`
+
+**[ VIEW LIVE DEMO → ](https://my-ai-zeta-eight.vercel.app)**
+
+---
+
+### `06` Soliya Sanctuary
+
+**Premium Resort Web Experience**
+
+Responsive digital experience for a boutique resort in Siargao,
+focused on visual presentation, responsive layouts, and modern interactions.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Vercel`
+
+**[ VIEW LIVE DEMO → ](https://soliya-resort.vercel.app)**
+
+---
+
+### `07` Aplaya Boracay
+
+**Luxury Hospitality Web Experience**
+
+Editorial-style hospitality website featuring fluid transitions,
+responsive layouts, and interactive touch-friendly experiences.
+
+`Next.js` `Framer Motion` `Tailwind CSS`
+
+**[ VIEW LIVE DEMO → ](https://boracay-resto-bar.vercel.app)**
+
+---
+
+### `08` PulseFit
+
+**Responsive Fitness Brand Experience**
+
+Modern fitness website featuring responsive layouts, typography,
+and scroll-based interactions.
+
+`Vue.js` `Nuxt.js` `CSS` `AOS`
+
+**[ VIEW LIVE DEMO → ](https://pulse-fit-hgl8.vercel.app)**
+
+---
+
+# `03` — TECHNOLOGY
+
+### LANGUAGES
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### FRAMEWORKS & RUNTIME
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### DATA & INFRASTRUCTURE
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white)
+
+### AUTOMATION & AI
+
+![Make.com](https://img.shields.io/badge/Make.com-4323FF?style=flat-square&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+# `04` — APPROACH
+
+```text
+REQUIREMENTS
+     ↓
+ARCHITECTURE
+     ↓
+IMPLEMENTATION
+     ↓
+TESTING
+     ↓
+DEPLOYMENT
+     ↓
+ITERATION
